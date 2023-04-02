@@ -14,7 +14,7 @@
       <title>Hello World |  Kroeseir</title>
   <meta name="generator" content="hexo-theme-ayer">
       
-      <link rel="shortcut icon" href="/favicon.ico" />
+      <link rel="shortcut icon" href="/images/K.ico" />
        
 <link rel="stylesheet" href="/dist/main.css">
 
@@ -41,7 +41,8 @@
           font-size: 1.6rem;
         }
       </style>
-    </head>
+    <link rel="alternate" href="/atom.xml" title="Kroeseir" type="application/atom+xml">
+</head>
   </html>
 </html>
 
@@ -197,6 +198,32 @@
 
   
    
+<div class="gitalk" id="gitalk-container"></div>
+
+<link rel="stylesheet" href="https://cdn.staticfile.org/gitalk/1.7.2/gitalk.min.css">
+
+
+<script src="https://cdn.staticfile.org/gitalk/1.7.2/gitalk.min.js"></script>
+
+
+<script src="https://cdn.staticfile.org/blueimp-md5/2.19.0/js/md5.min.js"></script>
+
+<script type="text/javascript">
+  var gitalk = new Gitalk({
+    clientID: 'bf291390b6ab88f7d8cd',
+    clientSecret: '953a104caae50854d95bcbcb20f79619eb0be602',
+    repo: 'Kroeseir.github.io',
+    owner: 'Kroeseir',
+    admin: [''],
+    // id: location.pathname,      // Ensure uniqueness and length less than 50
+    id: md5(location.pathname),
+    distractionFreeMode: false,  // Facebook-like distraction free mode
+    pagerDirection: 'last'
+  })
+
+  gitalk.render('gitalk-container')
+</script>
+
   
    
     <script src="https://cdn.staticfile.org/twikoo/1.4.18/twikoo.all.min.js"></script>
@@ -215,7 +242,7 @@
     <ul>
       <li>
         Copyrights &copy;
-        2015-2023
+        2023
         <i class="ri-heart-fill heart_icon"></i> John Doe
       </li>
     </ul>
@@ -268,7 +295,7 @@
 <nav class="navbar">
   
   <div class="logo">
-    <a href="/"><img src="/images/ayer-side.svg" alt="Kroeseir"></a>
+    <a href="/"><img src="/images/Kroeseir.svg" alt="Kroeseir"></a>
   </div>
   
   <ul class="nav nav-main">
@@ -302,7 +329,7 @@
     </li>
     
     <li class="nav-item">
-      <a class="nav-item-link" href="/2019/about">关于我</a>
+      <a class="nav-item-link" href="/about">关于我</a>
     </li>
     
   </ul>

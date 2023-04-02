@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Kroeseir</title>
+  
+  
+  <link href="http://example.com/atom.xml" rel="self"/>
+  
+  <link href="http://example.com/"/>
+  <updated>2023-04-01T13:03:17.135Z</updated>
+  <id>http://example.com/</id>
+  
+  <author>
+    <name>John Doe</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>一个离谱的后桌</title>
+    <link href="http://example.com/2023/04/01/2/"/>
+    <id>http://example.com/2023/04/01/2/</id>
+    <published>2023-04-01T12:32:17.050Z</published>
+    <updated>2023-04-01T13:03:17.135Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&lt;em&gt;在一次平常的小测中&lt;/em&gt;.我的后座问了个问题：    &lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;“为什么俄罗斯重工业发达？”   </summary>
+        
+      
+    
+    
+    
+    <category term="日记" scheme="http://example.com/categories/%E6%97%A5%E8%AE%B0/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>第一篇文章</title>
+    <link href="http://example.com/2023/03/26/1/"/>
+    <id>http://example.com/2023/03/26/1/</id>
+    <published>2023-03-26T04:58:06.986Z</published>
+    <updated>2023-03-26T05:10:54.446Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;就简单地挂个B站链接吧&lt;a</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://example.com/2023/03/25/hello-world/"/>
+    <id>http://example.com/2023/03/25/hello-world/</id>
+    <published>2023-03-25T09:28:00.348Z</published>
+    <updated>2023-03-25T09:25:11.621Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
