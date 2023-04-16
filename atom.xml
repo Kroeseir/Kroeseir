@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2023-04-01T13:03:17.135Z</updated>
+  <updated>2023-04-16T09:48:19.631Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>这是一则讣告</title>
+    <link href="http://example.com/2023/04/16/3/"/>
+    <id>http://example.com/2023/04/16/3/</id>
+    <published>2023-04-16T09:29:11.270Z</published>
+    <updated>2023-04-16T09:48:19.631Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;纪念我那长眠于老杨家的笔盖&lt;br&gt;笔盖生前所在笔：&lt;br&gt;&lt;img</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>一个离谱的后桌</title>
